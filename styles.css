@@ -30,7 +30,8 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #683aa4;
+    color: #a43a74 !important;
+    font-weight: bold;
 }
 
 section {
